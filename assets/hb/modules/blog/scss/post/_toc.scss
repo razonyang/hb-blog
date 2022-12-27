@@ -1,0 +1,6 @@
+.hb-blog-post-toc {
+    @include media-breakpoint-up(xxl) {
+        height: calc(100vh - #{$hb-blog-toc-top});
+        top: $hb-blog-toc-top;
+    }
+}

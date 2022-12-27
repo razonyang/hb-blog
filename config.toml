@@ -1,0 +1,9 @@
+[module.hugoVersion]
+extended = true
+
+[[module.imports]]
+path = "github.com/razonyang/hb-base"
+
+[params.hb.blog]
+paginate = 9
+post_date_format = ':date_long'

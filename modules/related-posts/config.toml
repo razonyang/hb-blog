@@ -1,0 +1,4 @@
+[params.hugopress.modules.hb-blog-related-posts.hooks.hb-blog-post-content-end]
+
+[params.hb.blog.related_posts]
+number = 10

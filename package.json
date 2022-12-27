@@ -1,0 +1,17 @@
+{
+  "name": "HB Blog Module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razonyang/hb-blog.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razonyang/hb-blog/issues"
+  },
+  "homepage": "https://github.com/razonyang/hb-blog",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-go-template": "^0.0.13"
+  }
+}

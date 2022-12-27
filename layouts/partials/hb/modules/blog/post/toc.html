@@ -1,0 +1,5 @@
+{{- if partialCached "base/functions/has-toc" . . }}
+  <div class="h6">{{- i18n "hb_blog_on_this_page" -}}</div>
+  <hr />
+  {{ .TableOfContents }}
+{{- end }}
