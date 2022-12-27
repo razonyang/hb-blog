@@ -1,4 +1,4 @@
-module github.com/razonyang/hb-blog-comments-giscus
+module github.com/razonyang/hb-blog/modules/comments-giscus
 
 go 1.19
 
