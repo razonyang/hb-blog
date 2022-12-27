@@ -2,3 +2,6 @@
 
 [[module.imports]]
 path = "github.com/razonyang/hb-breadcrumb"
+
+[[module.imports]]
+path = "github.com/razonyang/hb-blog"
