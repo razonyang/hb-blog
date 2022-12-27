@@ -1,5 +1,8 @@
-[module.imports]
+[[module.imports]]
 path = "github.com/razonyang/hugo-mod-giscus"
+
+[[module.imports]]
+path = "github.com/razonyang/hb-blog"
 
 [params.hugopress.modules.hb-blog-comments-giscus.hooks.hb-blog-post-comments]
 
