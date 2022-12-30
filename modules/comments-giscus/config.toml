@@ -1,5 +1,5 @@
 [[module.imports]]
-path = "github.com/razonyang/hugo-mod-giscus"
+path = "github.com/razonyang/hb-giscus"
 
 [[module.imports]]
 path = "github.com/razonyang/hb-blog"
