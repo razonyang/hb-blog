@@ -1,9 +1,9 @@
 {{- define "main" }}
   {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-blog-main-begin" "Page" .) }}
   <div class="hb-blog-post hb-module row position-relative">
-    <h2 class="hb-blog-post-title col-12 mb-2">
+    <h1 class="hb-blog-post-title col-12 mb-2">
       {{- .Title -}}
-    </h2>
+    </h1>
     <div class="hb-blog-post-meta mb-2">
       <span class="hb-blog-post-date">
         {{- partialCached "hb/modules/blog/post/date" . . -}}
