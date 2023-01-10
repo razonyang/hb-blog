@@ -1,5 +1,5 @@
 {{- define "title" }}
-  {{ $pages := where .Site.RegularPages "Type" "blog" }}
+  {{- $pages := .RegularPagesRecursive }}
   {{- $paginator := .Paginate $pages .Site.Params.hb.blog.paginate }}
   {{ partial "base/title" . }}
 {{- end -}}
