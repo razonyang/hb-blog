@@ -6,8 +6,8 @@ github.com/razonyang/hb-footer v0.1.0 h1:vo8ZyQcwF8CWnCGv5SOzvV5qsrV6xJ4yYJ/BJBM
 github.com/razonyang/hb-footer v0.1.0/go.mod h1:+NoFzsEVHEI2IS+wdc1h+wmaz4MkBy5Bq5BeHzXBS5Y=
 github.com/razonyang/hb-header v0.1.2 h1:uRxg6qQ/fjhP7Udi+1fEU4CJPmmVBEBIhmcHXD4BLdw=
 github.com/razonyang/hb-header v0.1.2/go.mod h1:J/IR1Qs6+pZ4LI4988fP9r3RSA7dhWeqM/BjW9CL0hA=
-github.com/razonyang/hb-heading-sign v0.1.0 h1:3HOVf5dR7XWdAeop0pSXldrh9SIpLXWroLA9ZzqIAaU=
-github.com/razonyang/hb-heading-sign v0.1.0/go.mod h1:QKxEZwlSy6K1X6ruQThpb4mIv08NMNIFrtSY3zmJYXg=
+github.com/razonyang/hb-heading-sign v0.1.1 h1:6IJs9XB6end12PzGzlzRIT7wXBiJp6a8AuW0TZBbc7I=
+github.com/razonyang/hb-heading-sign v0.1.1/go.mod h1:QKxEZwlSy6K1X6ruQThpb4mIv08NMNIFrtSY3zmJYXg=
 github.com/razonyang/hugo-mod-base v0.3.0 h1:+S1pYhACtACsxUIvvBHSP8KiCcqHW1kl+buSb5NyFJc=
 github.com/razonyang/hugo-mod-base v0.3.0/go.mod h1:ZcaKeMZdNIRcijaDnpzluS5CJyUwWl42FEbtVo5UKZE=
 github.com/razonyang/hugo-mod-icons v0.2.0 h1:xEeFV2bZnimG5KH+l0yWWYtq9doJODBM/IpX6DVB8xY=
