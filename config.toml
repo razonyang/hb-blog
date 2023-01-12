@@ -7,6 +7,9 @@ path = "github.com/razonyang/hb-base"
 [[module.imports]]
 path = "github.com/razonyang/hb-heading-sign"
 
+[[module.imports]]
+path = "github.com/razonyang/hugo-mod-icons/vendors/bootstrap"
+
 [params.hb.blog]
 paginate = 9
 post_date_format = ':date_long'
