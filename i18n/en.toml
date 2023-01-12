@@ -1,8 +1,8 @@
-[hb_blog_on_this_page]
+[on_this_page]
 other = "On this page"
 
-[hb_blog_pagination_next]
+[pagination_next]
 other = "Next"
 
-[hb_blog_pagination_prev]
+[pagination_prev]
 other = "Prev"
