@@ -14,3 +14,9 @@
         top: $hb-blog-toc-top;
     }
 }
+
+@include media-breakpoint-up(md) {
+    .hb-blog-post-toc-collapse {
+        display: block !important;
+    }
+}
