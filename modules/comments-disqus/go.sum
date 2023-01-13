@@ -1,0 +1,8 @@
+github.com/razonyang/hb v0.3.0 h1:v1Wu0lm6Jlb+nqyo5AREqRIZc0YcpNySmc1iJMLRIsk=
+github.com/razonyang/hb v0.3.0/go.mod h1:X02luEAFN9eoQTNdlef8xbWIw75UBibtde3FyoA8kaM=
+github.com/razonyang/hb-blog v0.5.0 h1:09pRAxr1ezoHMIh6JLgSp7V4UOqABE+e7BVOR1o//18=
+github.com/razonyang/hb-blog v0.5.0/go.mod h1:4CgHLZtPnjQBTK1y1DfhSMFVxtPx22Oug3rxCWa5JO0=
+github.com/razonyang/hb-disqus v0.1.0 h1:rHSFNH8D9TZgEtA66zY9RxvXWJicd8x8E0n4mes4hsI=
+github.com/razonyang/hb-disqus v0.1.0/go.mod h1:EfuBJf/LkqyId3dK40V43FUeXUMAg9FLCAs3fpmm04k=
+github.com/razonyang/hugo-mod-icons/vendors/bootstrap v0.1.0 h1:DCMA8MUdo0eRQGTmlBGzCGFTThYv9hSLsRGBdKrWtJ8=
+github.com/razonyang/hugo-mod-icons/vendors/bootstrap v0.1.0/go.mod h1:qpjpOVApH3ioWClhE05ja646/w6Wy4lz2mUA16JofEI=
